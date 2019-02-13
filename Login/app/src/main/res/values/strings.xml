@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="temperature_title">Température</string>
+    <string name="door_title">Porte</string>
+    <string name="light_title">Lumière</string>
+    <string name="camera_title">Caméra</string>
+    <string name="sensors_title">Capteurs</string>
+    <string name="challenge_title">Challenge</string>
+    <string name="presence_title">Présence</string>
+    <string name="parametre_title">Paramètres</string>
+    <string name="login_title">Identification</string>
+    <string name="url">http://IP/</string>
+    <string name="chat_title">Chat</string>
+    <string name="title_activity_arrondissement">ArrondissementActivity</string>
+    <string name="Paris_1_er_Arrondissement">Paris 1 er Arrondissement </string>
+    <string name="Paris_2_éme_Arrondissement">Paris 2 éme Arrondissement</string>
+    <string name="Paris_3_éme_Arrondissement">Paris 3 éme Arrondissement</string>
+    <string name="Paris_4_éme_Arrondissement">Paris 4 éme Arrondissement</string>
+    <string name="Paris_5_éme_Arrondissement">Paris 5 éme Arrondissement</string>
+    <string name="Paris_6_éme_Arrondissement">Paris 6 éme Arrondissement</string>
+    <string name="Paris_7_éme_Arrondissement">Paris 7 éme Arrondissement</string>
+    <string name="Paris_8_éme_Arrondissement">Paris 8 éme Arrondissement</string>
+    <string name="Paris_9_éme_Arrondissement">Paris 9 éme Arrondissement</string>
+    <string name="Paris_10_éme_Arrondissement">Paris 10 éme Arrondissement</string>
+    <string name="Paris_11_éme_Arrondissement">Paris 11 éme Arrondissement</string>
+    <string name="Paris_12_éme_Arrondissement">Paris 12 éme Arrondissement</string>
+    <string name="Paris_13_éme_Arrondissement">Paris 13 éme Arrondissement</string>
+    <string name="Paris_14_éme_Arrondissement">Paris 14 éme Arrondissement</string>
+    <string name="Paris_15_éme_Arrondissement">Paris 15 éme Arrondissement</string>
+    <string name="Paris_16_éme_Arrondissement">Paris 16 éme Arrondissement</string>
+    <string name="Paris_17_éme_Arrondissement">Paris 17 éme Arrondissement</string>
+    <string name="Paris_18_éme_Arrondissement">Paris 18 éme Arrondissement</string>
+    <string name="Paris_19_éme_Arrondissement">Paris 19 éme Arrondissement</string>
+    <string name="Paris_20_éme_Arrondissement">Paris 20 éme Arrondissement</string>
+    <string name="quiz_title">Quiz</string>
+</resources>

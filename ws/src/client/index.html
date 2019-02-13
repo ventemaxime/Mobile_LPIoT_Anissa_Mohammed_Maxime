@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Client</title>
+
+    <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="js/jquery.simple.websocket.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<div>
+
+    <div class="wrapper block"
+         style="width:68%;">
+        <div class="header">
+            Chat :
+        </div>
+        <ul id="chat-area">
+            <!--            <div class="him">-->
+            <!--                <div class="name">Jean-Michel</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+            <!--            <div class="me">-->
+            <!--                <div class="name">Ahmed</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+            <!--            <div class="me">-->
+            <!--                <div class="name">Ahmed</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+            <!--            <div class="me">-->
+            <!--                <div class="name">Ahmed</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+            <!--            <div class="me">-->
+            <!--                <div class="name">Ahmed</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+            <!--            <div class="him">-->
+            <!--                <div class="name">Jean-Michel</div>-->
+            <!--                <br>-->
+            <!--                <div class="box">By Other User</div>-->
+            <!--            </div>-->
+        </ul>
+    </div>
+    <div class="block" style="width:25%;">
+        <div class="header">
+            Liste des amis :
+        </div>
+    </div>
+</div>
+
+<div class="block" style="width:68%;height: 50px;">
+
+    <div>
+        <label style="float: left" for="chat-name">Token : </label>
+        <div style="float: left">
+            <input type="text" id="chat-name" placeholder="Enter your name" value="d341bf3069c4866272b03e601eb55472">
+        </div>
+
+        <div>
+            <input type="text" placeholder="Enter a message, then press enter"
+                   id="chat-message">
+
+            <button id="chat-send" class="btn btn-info" type="button">Envoyer</button>
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

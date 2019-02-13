@@ -1,0 +1,164 @@
+{
+  "results":[
+    {
+      "type":"1",
+      "question":"Quel arrondissement en bordure du premier se situe au nord ?",
+      "correct_answer":"2e",
+      "rep1":"7e",
+      "rep2":"3e",
+      "rep3":"8e"
+    },
+    {
+      "type":"2",
+      "question":"Comment est aussi appelé le 2è arrondissement de Paris ?",
+      "correct_answer":"Arrondissement de la bourse",
+      "rep1":"Arrondissment de la vie",
+      "rep2":"Arrondissement de la richesse",
+      "rep3":"Arrondissement du monde"
+    },
+    {
+      "type":"3",
+      "question":"Quelle est la superficie du 3è arrondissement de Paris ?",
+      "correct_answer":"127 ha",
+      "rep1":"616 ha",
+      "rep2":"23 ha",
+      "rep3":"224 ha"
+    },
+    {
+      "type":"4",
+      "question":"En quelle année a été créé le 4è arrondissement de Paris ?",
+      "correct_answer":"1795",
+      "rep1":"24",
+      "rep2":"2012",
+      "rep3":"1995"
+    },
+    {
+      "type":"5",
+      "question":"Combien d'habitants il y avait-il en 1856 ?",
+      "correct_answer":"109 099",
+      "rep1":"52 164",
+      "rep2":"254 789",
+      "rep3":"123 456"
+    },
+    {
+      "type":"6",
+      "question":"Quel arrondissement en bordure du sixième se situe au sud-est ?",
+      "correct_answer":"8è",
+      "rep1":"1er",
+      "rep2":"5è",
+      "rep3":"7è"
+    },
+    {
+      "type":"7",
+      "question":"Quelle est la superficie du 7è arrondissement de Paris ?",
+      "correct_answer":"72 ha",
+      "rep1":"213 ha",
+      "rep2":"51 ha",
+      "rep3":"22 ha"
+    },
+    {
+      "type":"8",
+      "question":"Combien d'habitants il y avait-il en 1846 ?",
+      "correct_answer":"109 925",
+      "rep1":"94 567",
+      "rep2":"121",
+      "rep3":"56 184"
+    },
+    {
+      "type":"9",
+      "question":"Qui était le maire du 9è arrondissment entre 1852 et 1860 ?",
+      "correct_answer":"Auguste-Jean-Catherine Le Secq",
+      "rep1":"Louis-Victor Moreau",
+      "rep2":"Marin-Bernardin Denise",
+      "rep3":"Nicolas Sarkozy"
+    },
+    {
+      "type":"10",
+      "question":"Comment était anciennement dénommé le 10è arrondissement de Paris ?",
+      "correct_answer":"dixième municipalité",
+      "rep1":"dixième merveilles",
+      "rep2":"dixieme quartier",
+      "rep3":"dixième joyaux"
+    },
+    {
+      "type":"11",
+      "question":"En combien de quartier était divisé le 11è arrondissement de Paris de 1850 à 1860 ?",
+      "correct_answer":"4",
+      "rep1":"12",
+      "rep2":"6",
+      "rep3":"2"
+    },
+    {
+      "type":"12",
+      "question":"Combien d'habitants il y avait-il en 1816 ?",
+      "correct_answer":"80 079",
+      "rep1":"1 245 654",
+      "rep2":"15",
+      "rep3":"24 215"
+    },
+    {
+      "type":"13",
+      "question":"Qui a été élu maire du 13è arrondissment en 2007 ?",
+      "correct_answer":"Jérôme Coumet",
+      "rep1":"Jacques Chirac",
+      "rep2":"Indiana Jones",
+      "rep3":"Bill Clinton"
+    },
+    {
+      "type":"14",
+      "question":"Combien y a-t-il d'habitants par km² dans le 14è ?",
+      "correct_answer":"23 824",
+      "rep1":"1 654",
+      "rep2":"10 238",
+      "rep3":"341 497"
+    },
+    {
+      "type":"15",
+      "question":"De combien de quartier administratifs est constitué le 15è",
+      "correct_answer":"4",
+      "rep1":"3",
+      "rep2":"25",
+      "rep3":"10"
+    },
+    {
+      "type":"16",
+      "question":"Quelle est la superficie du 16è arrondissement de Paris ?",
+      "correct_answer":"7.91 km²",
+      "rep1":"1.56 km²",
+      "rep2":"15.7 km²",
+      "rep3":"8.12 km²"
+    },
+    {
+      "type":"17",
+      "question":"Combien y a-t-il d'habitants dans le 17è arrondissement ?",
+      "correct_answer":"170 174",
+      "rep1":"10 145",
+      "rep2":"12 125",
+      "rep3":"14"
+    },
+    {
+      "type":"18",
+      "question":"Quel est sont classement en nombre d'habitants parmis les autres arrondissements ?",
+      "correct_answer":"2è",
+      "rep1":"1er",
+      "rep2":"8è",
+      "rep3":"22è"
+    },
+    {
+      "type":"19",
+      "question":"A quelle extrémité de Paris se situe le 19è arrondissement de Paris ?",
+      "correct_answer":"Nord-Est",
+      "rep1":"Sud-Est",
+      "rep2":"Nord-Ouest",
+      "rep3":"Sud-Ouest"
+    },
+    {
+      "type":"20",
+      "question":"En quelle année a été créé le 20è arrondissement de Paris ?",
+      "correct_answer":"1859",
+      "rep1":"1722",
+      "rep2":"2001",
+      "rep3":"125"
+    }
+  ]
+}

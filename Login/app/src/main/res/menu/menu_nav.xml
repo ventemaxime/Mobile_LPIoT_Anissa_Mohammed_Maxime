@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_first"
+        android:icon="@drawable/ic_menu_presence"
+        android:iconTint="@color/colorAccent"
+        android:title="Présence" />
+
+    <item
+        android:id="@+id/nav_second"
+        android:icon="@drawable/ic_menu_challenge"
+        android:iconTint="@color/colorAccent"
+        android:title="Challenge" />
+
+    <item
+        android:id="@+id/nav_seventh"
+        android:icon="@drawable/ic_menu_chat"
+        android:title="Chat"/>
+
+    <item
+        android:id="@+id/nav_third"
+        android:icon="@drawable/ic_menu_sensor"
+        android:iconTint="@color/colorAccent"
+        android:title="Capteur IoT" />
+
+    <item
+        android:id="@+id/nav_fourth"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Caméra"/>
+
+    <item
+        android:id="@+id/nav_fifth"
+        android:icon="@drawable/ic_menu_parametres"
+        android:iconTint="@color/colorAccent"
+        android:title="Paramètres" />
+
+    <item
+        android:id="@+id/nav_sixth"
+        android:icon="@drawable/ic_menu_disconnect"
+        android:iconTint="@color/colorAccent"
+        android:title="Se déconnecter" />
+
+</menu>
